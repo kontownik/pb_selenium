@@ -1,2 +1,2 @@
-# pb_selenium
-Selenium
+# PB Selenium
+Przykład wykorzystania Selenium dla studentów Politechniki Białostockiej
